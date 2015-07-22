@@ -2,6 +2,7 @@ language: go
 
 go:
   - 1.4.2
+sudo: required
 #install:
 #  - go get github.com/bmizerany/assert
 deploy:
