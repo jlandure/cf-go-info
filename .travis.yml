@@ -5,6 +5,7 @@ go:
 sudo: required
 #install:
 #  - go get github.com/bmizerany/assert
+# docker: docker run -it --rm -v "$(pwd)":/home/travis mgruener/travis-cli
 deploy:
    edge: true
    provider: cloudfoundry
