@@ -6,6 +6,7 @@ sudo: required
 #install:
 #  - go get github.com/bmizerany/assert
 # docker: docker run -it --rm -v "$(pwd)":/home/travis mgruener/travis-cli
+# travis encrypt -r jlandure/cf-go-info --add deploy.password
 deploy:
    edge: true
    provider: cloudfoundry
