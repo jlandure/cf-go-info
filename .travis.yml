@@ -10,7 +10,7 @@ deploy:
    provider: cloudfoundry
    username: julien.landure@zenika.com
    password:                                                                                                                                                                                                                                          
-    secure: iUzErrx3Fk27r0J8lJpe/MF0I2YgdNx2t2nOrpNY2wB8QJ1S7fCvZ4lhO1NosJDj48d2Mij6vqM3O8q94YTg2sh9Hm9pQ3RmZKjnk6S9FEBEm7Rq0KGByZR/Gd9K5CE5+TL1xORRHU4fSEBTSv8Mdr/MOXj586maTM7wIxp+nPA=
+    secure: RYHYLtUKeUkGSbL2d1sz+rKXG3Pbrr/S1mi2rewVWTFRbU/m5qr5kkEbdQ/ILjAfVaUwb2g1MJ76HBY8snI7uSx9RvyT9LLh5U8ByhwMc1YbK1ux696fyP4xp8YfJVMoIdscKHGnq2/B9+ud6T3WCtc+heDU7Gj3L5sJFvQR3Dk=
    api: https://api.run.pivotal.io
    organization: pivotaledu
    space: production
